@@ -27,4 +27,5 @@ Decision Tree Regressor R2 : 0.8804737719065344
 
 Random Forest Regressor R2 : 0.981668168270039
 
-Random Forest Regression is the best-performing model with an r2 score of 0.981668168270039. ElasticNe Regression is the worst-performing model with an r2 score of 0.8196626252780658.
+*Random Forest Regression is the best-performing model with an r2 score of 0.981668168270039. 
+*ElasticNe Regression is the worst-performing model with an r2 score of 0.8196626252780658.
